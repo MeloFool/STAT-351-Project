@@ -85,7 +85,7 @@ We will start by building a dataset in R, where each row in one NBA regular seas
 
 To answer our main question, we will fit a linear regression of the visiting team's average point margin on team strength, a back to back indicator (second game), a high altitude indicator, and the interaction between those last two. The interaction coefficient is the key number, because it tells us how many extra points a tired visitor loses in the high elevation. Because Denver and Utah only host a 41 home games a season, and few are the second night of a back to back for the visitors, we are thinking of incorporating all arenas and accounting for elevation. If time allows, we will also test whether the size of altitude change between a visitors home arena and the game arena matters.
 
-As an additional goal, we will fit our regression model on earlier seasons, and see if it can predict margins in the most recent season (2025-2026). We expect the report to be carried by two or three figures, a plot of average margin by venue and rest group with confidence intervals, a coefficient plot for the interaction effect, and a plot of predicted vs actual margins.
+As an additional goal, we will fit our regression model on earlier seasons, and see if it can predict margins in the most recent season (2025-2026). We expect the report to be carried by two or three figures, a plot of average margin by venue and rest group with confidence intervals, a coefficient plot for the interaction effect, and a plot of predicted vs actual margins..
 
 \answerend
 
