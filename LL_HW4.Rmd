@@ -69,11 +69,11 @@ We aim to calculate an estimated interaction coefficient (points) with a confide
 
 \answerstart
 
-**Source.** *Name and URL or R package; what one row is; roughly how many rows and over what span; the variables you need.*
+**Source.** *I will use the hoopR R package (https://github.com/sportsdataverse/hoopR). Each row represents one team's performance in a game. I will use approximately 22,000 rows from the 2015–2025 NBA seasons, excluding 2019–20. Variables include game scores, dates, teams, offensive and defensive ratings, pace, altitude, travel distance, and rest days.*
 
-**How you will get it.** *Scraped, downloaded, from Kaggle or another repository, through a package or API, or entered by hand -- and whether you have it yet.*
+**How you will get it.** *I will download the data through the `hoopR` package in RStudio. I have already installed the package and successfully loaded NBA game data. I still need to collect altitude and travel information.*
 
-**If it falls through.** *The most likely problems, and for each a specific second source or narrower question.*
+**If it falls through.** *If altitude data is too difficult to collect, we will focus only on how short rest affects NBA team performance. We will also use Basketball Reference as a backup source for game data.*
 
 \answerend
 
@@ -118,7 +118,7 @@ Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \\
 
 \answerstart
 
-*References: at least two, in a consistent format, one of them your data source.*
+*References: https://github.com/sportsdataverse/hoopR https://www.basketball-reference.com/*
 
 \answerend
 
