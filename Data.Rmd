@@ -1,0 +1,31 @@
+---
+title: "Data"
+output: html_document
+---
+
+
+
+```{r}
+#Run This First!!!!
+install.packages("hoopR")
+install.packages("tidyverse")
+```
+
+
+```{r}
+#Packages
+library(hoopR)
+library(tidyverse)
+```
+
+
+```{r}
+#loads and displays HoopR for 2025 season (Example)
+nba_games <- hoopR::load_nba_team_box(
+  seasons = 2025
+)
+
+View(nba_games)
+
+```
+
