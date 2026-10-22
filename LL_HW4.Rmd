@@ -44,6 +44,7 @@ My name is Luke Lowther, and I will be working with Ari Crumley.
 # 2. Research Question
 
 \answerstart
+
 My partner and I want to look into a the combination of short rest and playing in high elevation arenas affect NBA teams. These are the questions we would like to research and hopefully answer.
 
 **Primary Question:**
@@ -63,6 +64,7 @@ Does the effect show up more in the second half / fourth quarter when the visiti
 **Shape of Answer:**
 
 We aim to calculate an estimated interaction coefficient (points) with a confidence interval, a comparison of group means, and maybe a fitted model to predict team performance coming into high elevation arenas.
+
 \answerend
 
 # 3. Data
