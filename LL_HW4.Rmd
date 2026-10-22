@@ -126,7 +126,7 @@ Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \ Finish presentation and throughoug
 
 \answerstart
 
-*Which AI tools you used and how. "None" is a full-credit answer.*
+We used Claude Sonnet 5.5 to help us brainstorm project ideas. We also used it to help us fully flush out the idea that we chose. At no point was AI used to do any work for us, simply to aid us in coming up with a project idea that was well thought out and somewhat niche (We did not want to accidentally do the same thing as another group).
 
 \answerend
 
