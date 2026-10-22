@@ -1,0 +1,112 @@
+---
+title: "STAT 351: Final Project Proposal"
+author: "Luke Lowther"
+output: pdf_document
+geometry: "top=0.75in, bottom=0.9in, left=0.9in, right=0.9in"
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{framed}
+  - \setlength{\OuterFrameSep}{3pt}
+  - \usepackage{titlesec}
+  - \titlespacing*{\section}{0pt}{8pt}{2pt}
+  - \usepackage{titling}
+  - \setlength{\droptitle}{-0.75in}
+  - \posttitle{\par\end{center}\vspace{-0.5em}}
+---
+
+<!-- STUDENTS: change the "title" and "author" above
+
+DO NOT EDIT THE SECTION BELOW -->
+\colorlet{shadecolor}{gray!10}
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE, fig.width = 4, fig.height = 4, tidy = TRUE, tidy.opts = list(width.cutoff = 60))
+```
+
+\newcommand{\answerstart}{ \colorlet{shadecolor}{orange!20}
+\begin{shaded} }
+\newcommand{\answerend}{  \end{shaded} \colorlet{shadecolor}{gray!10}}
+<!-- STUDENTS: DO NOT EDIT THE SECTION ABOVE
+start here, insert your proposal below -->
+
+<!-- STUDENTS: replace the italic text in each box with your own writing, in
+complete sentences, and delete these comment lines. -->
+
+# 1. You and Your Group
+
+\answerstart
+
+My name is Luke Lowther, and I will be working with Ari Crumley. 
+
+\answerend
+
+# 2. Research Question
+
+\answerstart
+
+My partner
+
+\answerend
+
+# 3. Data
+
+\answerstart
+
+**Source.** *Name and URL or R package; what one row is; roughly how many rows and over what span; the variables you need.*
+
+**How you will get it.** *Scraped, downloaded, from Kaggle or another repository, through a package or API, or entered by hand -- and whether you have it yet.*
+
+**If it falls through.** *The most likely problems, and for each a specific second source or narrower question.*
+
+\answerend
+
+# 4. Planned Analysis
+
+\answerstart
+
+*How you plan to get from the data to an answer, and some methods that might do it. You are not committing to any of it -- if you are weighing options, say so and name them. Close with the figures you imagine carrying the report.*
+
+\answerend
+
+# 5. Timeline and References
+
+<!-- STUDENTS: fill in the right-hand column. Reword rows if your project needs it. -->
+
+\begin{center}
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{|l|l|p{3.1in}|}
+\hline
+\textbf{Week} & \textbf{Dates} & \textbf{What you expect to have done} \\
+\hline
+Week 10 & Oct.\ 26--30 &  \\
+\hline
+Week 11 & Nov.\ 2--6 &  \\
+\hline
+Week 12 & Nov.\ 9--13 &  \\
+\hline
+Week 13 & Nov.\ 16--20 & Exam Nov.\ 16 \\
+\hline
+--- & Nov.\ 23--27 & Fall break \\
+\hline
+Week 14 & Nov.\ 30--Dec.\ 4 & Presentations begin \\
+\hline
+Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \\
+\hline
+\end{tabular}
+\end{center}
+
+\answerstart
+
+*References: at least two, in a consistent format, one of them your data source.*
+
+\answerend
+
+# 6. AI Acknowledgment
+
+\answerstart
+
+*Which AI tools you used and how. "None" is a full-credit answer.*
+
+\answerend
+
