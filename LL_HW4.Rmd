@@ -46,12 +46,12 @@ My name is Luke Lowther, and I will be working with Ari Crumley.
 \answerstart
 My partner and I want to look into a the combination of short rest and playing in high elevation arenas affect NBA teams. These are the questions we would like to research and hopefully answer.
 
-Primary Question:
+**Primary Question:**
 
 Is the margin penalty for visiting teams on short rest (back to back or 3 in 4 nights) larger when playing in high altitude arenas (Primarily Denver and Utah) than in lower altitude arenas. We are aiming to investigate whether already fatigued teams struggle more at elevation.
 
 
-Secondary Questions:
+**Secondary Questions:**
 
 Does the visitor penalty scale with the altitude difference between the visitors own home arena and the game's location?
 
@@ -60,7 +60,7 @@ Is Denver's home advantage larger then other teams? Does it depend / how much do
 Does the effect show up more in the second half / fourth quarter when the visiting team has been running more at elevation?
 
 
-Shape of Answer:
+**Shape of Answer:**
 
 We aim to calculate an estimated interaction coefficient (points) with a confidence interval, a comparison of group means, and maybe a fitted model to predict team performance coming into high elevation arenas.
 \answerend
@@ -69,11 +69,11 @@ We aim to calculate an estimated interaction coefficient (points) with a confide
 
 \answerstart
 
-**Source.** *I will use the hoopR R package (https://github.com/sportsdataverse/hoopR). Each row represents one team's performance in a game. I will use approximately 22,000 rows from the 2015–2025 NBA seasons, excluding 2019–20. Variables include game scores, dates, teams, offensive and defensive ratings, pace, altitude, travel distance, and rest days.*
+**Source.** I will use the hoopR R package (https://github.com/sportsdataverse/hoopR). Each row represents one team's performance in a game. I will use approximately 22,000 rows from the 2015–2025 NBA seasons, excluding 2019–20. Variables include game scores, dates, teams, offensive and defensive ratings, pace, altitude, travel distance, and rest days.
 
-**How you will get it.** *I will download the data through the `hoopR` package in RStudio. I have already installed the package and successfully loaded NBA game data. I still need to collect altitude and travel information.*
+**How you will get it.** I will download the data through the `hoopR` package in RStudio. I have already installed the package and successfully loaded NBA game data. I still need to collect altitude and travel information.
 
-**If it falls through.** *If altitude data is too difficult to collect, we will focus only on how short rest affects NBA team performance. We will also use Basketball Reference as a backup source for game data.*
+**If it falls through.** If altitude data is too difficult to collect, we will focus only on how short rest affects NBA team performance. We will also use Basketball Reference as a backup source for game data.
 
 \answerend
 
