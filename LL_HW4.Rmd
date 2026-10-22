@@ -99,19 +99,19 @@ As an additional goal, we will fit our regression model on earlier seasons, and 
 \hline
 \textbf{Week} & \textbf{Dates} & \textbf{What you expect to have done} \\
 \hline
-Week 10 & Oct.\ 26--30 &  \\
+Week 10 & Oct.\ 26--30 &  \ Data scraped and cleaned (two rows -> one row per game, only relevant columns, add back to back indicator) \\
 \hline
-Week 11 & Nov.\ 2--6 &  \\
+Week 11 & Nov.\ 2--6 &  \ First statistics calculated, begin making plots \\
 \hline
-Week 12 & Nov.\ 9--13 &  \\
+Week 12 & Nov.\ 9--13 &  \ Start on conclusion / analysis \\
 \hline
-Week 13 & Nov.\ 16--20 & Exam Nov.\ 16 \\
+Week 13 & Nov.\ 16--20 & Exam Nov.\ 16 \ Exam week / break for study time \\
 \hline
---- & Nov.\ 23--27 & Fall break \\
+--- & Nov.\ 23--27 & Fall break \ Fall break / catch up work if necessary \\
 \hline
-Week 14 & Nov.\ 30--Dec.\ 4 & Presentations begin \\
+Week 14 & Nov.\ 30--Dec.\ 4 & Presentations begin \ Begin building slides and presentation\\
 \hline
-Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \\
+Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \ Finish presentation and throughough proofread. Turn in Project\\
 \hline
 \end{tabular}
 \end{center}
