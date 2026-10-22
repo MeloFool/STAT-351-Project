@@ -118,7 +118,11 @@ Week 15 & Dec.\ 7--11 & Report due Dec.\ 13 \ Finish presentation and throughoug
 
 \answerstart
 
-*References: https://github.com/sportsdataverse/hoopR https://www.basketball-reference.com/*
+**References:**
+
+*https://github.com/sportsdataverse/hoopR*
+
+*https://www.basketball-reference.com/*
 
 \answerend
 
